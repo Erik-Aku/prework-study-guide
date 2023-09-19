@@ -1,4 +1,4 @@
-# Prework Study Guide Weboage
+# Prework Study Guide Webpage
 Bootcamp Prework Study Guide for Students
 
 ## Description
